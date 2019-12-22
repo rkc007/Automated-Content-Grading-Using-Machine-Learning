@@ -5,7 +5,7 @@ nltk
 pandas==0.16.0
 beautifulsoup4
 appdirs==1.4.3
-Django==1.11
+Django==1.11.23
 djangorestframework==3.6.2
 packaging==16.8
 pkg-resources==0.0.0
@@ -15,7 +15,7 @@ six==1.10.0
 appdirs==1.4.3
 coreapi==2.3.0
 coreschema==0.0.4
-Django==1.11
+Django==1.11.23
 django-crispy-forms==1.6.1
 django-filter==1.0.2
 django-guardian==1.4.8
@@ -37,7 +37,7 @@ uritemplate==3.0.0
 appdirs==1.4.3
 coreapi==2.3.0
 coreschema==0.0.4
-Django==1.11
+Django==1.11.23
 django-crispy-forms==1.6.1
 django-filter==1.0.2
 django-guardian==1.4.8
