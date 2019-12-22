@@ -31,7 +31,7 @@ psycopg2==2.7.1
 Pygments==2.2.0
 pyparsing==2.2.0
 pytz==2017.2
-requests==2.13.0
+requests==2.20.0
 six==1.10.0
 uritemplate==3.0.0
 appdirs==1.4.3
@@ -53,6 +53,6 @@ psycopg2==2.7.1
 Pygments==2.2.0
 pyparsing==2.2.0
 pytz==2017.2
-requests==2.13.0
+requests==2.20.0
 six==1.10.0
 uritemplate==3.0.0
