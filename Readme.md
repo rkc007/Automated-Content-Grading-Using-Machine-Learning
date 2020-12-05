@@ -1,4 +1,4 @@
-# Automated-Content-Grading-Using-Machine-Learning
+# Automated Content Grading Using Machine Learning
 This is a primitive research experiment in automation of grading of Exam Papers in Technical domain, currently only for theoretical content in the answer papers, which constitutes for the major part. Automation of the grading can significantly reduce the time and effort required by the human graders, and bring forth other advantages such as disinterested or unbiased checking, efficient and less subjective to human errors. Machine learning models implemented in this project include Bag of words, bag of vectors, bag of centroids, on the manually build datasets from exams given by students enrolled in technical domain courses in Amity University, Noida, India.
 
 # Motivation
