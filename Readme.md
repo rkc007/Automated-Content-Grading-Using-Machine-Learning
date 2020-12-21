@@ -21,3 +21,6 @@ We chose to implement our model in Python 2.7.x, as there is a vast set of libra
 * **Rahul Chauhan**
 * **Ravinder Saharan**
 * **Siddhartha Singh**
+
+## Advisor
+* **Preeti Sharma**
